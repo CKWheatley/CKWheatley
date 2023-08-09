@@ -19,9 +19,7 @@ Here are some ideas to get you started:
   <div>
     <h2>💻About Me💻</h2>
     <ul>
-      <li>📊Data Analysis</li>
-      <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" title="Bootstrap" **alt="Bootstrap" width="40" height="40"/>&nbsp;
-      <img src="https://github.com/devicons/devicon/blob/master/icons/php/php-original.svg" title="Bootstrap" **alt="Bootstrap" width="40" height="40"/>&nbsp;
+      <li>📊Data Analyst</li>
       <li>👨🏼‍💻Studying Software Engineering</li>
       <li>🎶Music Artist & Producer</li>
       <li>🧠Aspire To Learn Machine Learning</li>
@@ -37,13 +35,16 @@ Here are some ideas to get you started:
   </div>
   <div>
     <h2>Tech Stack</h2>
-    <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
-    <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;
-    <img src="https://github.com/devicons/devicon/blob/master/icons/sass/sass-original.svg"  title="SAAS" alt="CSS" width="40" height="40"/>&nbsp;
-    <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
-    <img src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-original.svg" title="Bootstrap" **alt="Bootstrap" width="40" height="40"/>&nbsp;
-    <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" title="Bootstrap" **alt="Bootstrap" width="40" height="40"/>&nbsp;
-    <img src="https://github.com/devicons/devicon/blob/master/icons/php/php-original.svg" title="Bootstrap" **alt="Bootstrap" width="40" height="40"/>&nbsp;
+    <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="80" height="80"/>&nbsp;
+    <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS" width="80" height="80"/>&nbsp;
+    <img src="https://github.com/devicons/devicon/blob/master/icons/sass/sass-original.svg"  title="SAAS" alt="SAAS" width="80" height="80"/>&nbsp;
+    <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="80" height="80"/>&nbsp;
+    <img src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-original.svg" title="Bootstrap" **alt="Bootstrap" width="80" height="80"/>&nbsp;
+    <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" title="python" **alt="python" width="80" height="80"/>&nbsp;
+    <img src="https://github.com/devicons/devicon/blob/master/icons/php/php-original.svg" title="PHP" **alt="PHP" width="80" height="80"/>&nbsp;
+    <img src="https://github.com/devicons/devicon/blob/master/icons/microsoftsqlserver/microsoftsqlserver-plain-wordmark.svg" title="MSSQL" **alt="MSSQL" width="80" height="80"/>&nbsp;
+    <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="My SQL" **alt="MYSQL" width="80" height="80"/>&nbsp;
+    <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="git" **alt="git" width="80" height="80"/>&nbsp;
   </div>
 </div>
 &nbsp;
