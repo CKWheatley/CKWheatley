@@ -19,7 +19,7 @@ Here are some ideas to get you started:
   <div>
     <h2>💻About Me💻</h2>
     <ul>
-      <li>📊Data Analyst</li>
+      <li>📊Data Analytics, Data science & Data Engineering</li>
       <li>👨🏼‍💻Studying Software Engineering</li>
       <li>🎶Music Artist & Producer</li>
       <li>🧠Aspire To Learn Machine Learning</li>
